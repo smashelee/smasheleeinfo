@@ -10,7 +10,7 @@ const projectsData: Project[] = [
     version: "v1.0.55LR",
     description: "Telegram стикер/эмодзи менеджер с функциями сортировки, изменения порядка и работы с архивными паками. Удобное управление коллекцией стикеров.",
     tags: ["Telegram", "Java", "Xposed", "UI/UX"],
-    image: "/banners/pj1.jpeg",
+    image: "/pj1.jpeg",
     link: "https://t.me/smasheleeplugins/6"
   },
   {
@@ -19,7 +19,7 @@ const projectsData: Project[] = [
     version: "v1.9.56BR",
     description: "Набор улучшений качества жизни: генерация QR кодов, калькулятор, погода и ИИ помощник. В РАЗРАБОТКЕ.",
     tags: ["Telegram", "Java", "Python", "AI"],
-    image: "/banners/pj2.jpeg",
+    image: "/pj2.jpeg",
     link: "#"
   }
 ];
